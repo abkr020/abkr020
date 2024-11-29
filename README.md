@@ -4,11 +4,7 @@
 <h1 align="center" style="color: #f5f5f5; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center" style="color: #d1d1d1;">Web Development and Cyber Security</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abkr020&theme=dracula" alt="abkr020" />
-  </a>
-</p>
+
 
 
 
@@ -20,7 +16,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkr020&theme=dark" alt="abkr020" />
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abkr020&theme=dracula" alt="abkr020" />
+  </a>
+</p>
 
 
 
