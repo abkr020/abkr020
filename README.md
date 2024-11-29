@@ -17,12 +17,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color: #d1d1d1;">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abkr020" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abkr020" height="30" width="40" />
-  </a>
-</p>
+
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abkr020&show_icons=true&theme=dark" alt="abkr020" style="margin-right: 20px;" />
