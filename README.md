@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2683948" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abkr020.png" alt="Your Image Badge" />
 
 <!--
 **abkr020/abkr020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
