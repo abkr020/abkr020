@@ -22,6 +22,18 @@
 
 
 
+
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/abkr020.png" alt="Your Image Badge" />
+
+
+
+
+
+
+
+
 <h3 align="left" style="color: #d1d1d1;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/abkr020" target="blank">
