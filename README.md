@@ -3,26 +3,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Web Development and Cyber Security</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abkr020&label=Profile%20views&color=blueviolet&style=flat-square" alt="abkr020" /> 
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abkr020&theme=darkhub" alt="abkr020" />
-  </a>
-</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abkr020" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abkr020" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abkr020" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abkr020" height="30" width="40" />
-</a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -85,9 +67,27 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkr020&theme=radical" alt="abkr020" />
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abkr020" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abkr020" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/abkr020" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abkr020" height="30" width="40" />
+</a>
+
+</p>
 
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abkr020&label=Profile%20views&color=blueviolet&style=flat-square" alt="abkr020" /> 
+</p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abkr020&theme=darkhub" alt="abkr020" />
+  </a>
+</p>
 
 
 
